@@ -19,5 +19,4 @@ virtualenv (virtual environment manager), <br>
 2) Move to virtual environment folder
 3) Activate virtual environment 
 4) Move to `torsyk` folder
-5) Execute `export FLASK_APP=hello_world.py` for Linux or `set FLASK_APP=hello_world.py` for Windows
-6) And then `flask run`
+5) Execute `python hello_world.py`
