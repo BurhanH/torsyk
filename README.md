@@ -19,4 +19,5 @@ virtualenv (virtual environment manager), <br>
 2) Move to virtual environment folder
 3) Activate virtual environment 
 4) Move to `torsyk` folder
-5) Execute `python hello_world.py`
+5) Execute `python index.py`
+6) Open a browser and go to [http://127.0.0.1:5000/](http://127.0.0.1:5000/) link
