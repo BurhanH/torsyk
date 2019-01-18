@@ -2,6 +2,7 @@
 
 Site - an example. Based on Python and Flask.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ea5e5d7b2f95480ba3ce2c86b6533bb3)](https://app.codacy.com/app/BurhanH/torsyk?utm_source=github.com&utm_medium=referral&utm_content=BurhanH/torsyk&utm_campaign=Badge_Grade_Settings)
  [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/BurhanH/torsyk/blob/master/LICENSE)
 
 ## Requirements
