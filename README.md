@@ -25,6 +25,3 @@ virtualenv (virtual environment manager), <br>
 4) Move to `torsyk` folder
 5) Execute `flask run`
 6) Open a browser and go to [http://127.0.0.1:5000/](http://127.0.0.1:5000/) link
-
-## How it looks like
-![alt text](https://github.com/BurhanH/torsyk/raw/master/site_page.png "Site page") <br>
